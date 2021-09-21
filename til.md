@@ -1,0 +1,1 @@
+09-20-21: I learned MySQL clauses WHERE, ORDER BY, LIMIT, and OFFSET.

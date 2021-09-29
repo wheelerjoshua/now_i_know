@@ -13,4 +13,13 @@ eg. Last names that start and end with an 'e' would be included in the WHERE cla
 I learned that when a question may be subjected to interpretation to leave a note on my personal judgement calls. If that judgement call is above my head or pay grade, ask questions. Alternate viewpoints on code may reveal these scenarios.
 
 -- 09-23-21:
-I learned how poweful aliases can be. When joining tables and there's a lot of information being passed around, lengthy names can create clutter and confusion when analyzing code. Using aliases on tables reduces the clutter and confusion. I also learned about self joins.
+I learned how powerful aliases can be. When joining tables and there's a lot of information being passed around, lengthy names can create clutter and confusion when analyzing code. Using aliases on tables reduces the clutter and confusion. I also learned about self joins.
+
+-- 09-27-21:
+I learned about subqueries and how quickly they can become complicated. I also learned how to create temporary tables using queries and how to add and remove things from them, along with how critical it is to make sure you're working from a personal database so you don't ruin the main database.
+
+-- 09-28-21:
+I learned about case statements and how they can be used to create pivot tables.
+
+-- 09-29-21:
+I learned that the solution I come up with might not always be the most efficient or simple and to always pay attention to your table for undesired duplicates.

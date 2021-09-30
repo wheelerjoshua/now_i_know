@@ -23,3 +23,6 @@ I learned about case statements and how they can be used to create pivot tables.
 
 -- 09-29-21:
 I learned that the solution I come up with might not always be the most efficient or simple and to always pay attention to your table for undesired duplicates.
+
+-- 09-30-21:
+I learned how complicated environment setup could potentially become. A simple misinterpretation of where something is installing can interrupt the entire process. Being able to identify where homebrew is installing may enable a more streamlined effort in future environment setups. I also learned broadly about how powerful jupyter notebook is and what can be done with it.

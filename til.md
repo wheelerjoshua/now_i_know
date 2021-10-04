@@ -26,3 +26,9 @@ I learned that the solution I come up with might not always be the most efficien
 
 -- 09-30-21:
 I learned how complicated environment setup could potentially become. A simple misinterpretation of where something is installing can interrupt the entire process. Being able to identify where homebrew is installing may enable a more streamlined effort in future environment setups. I also learned broadly about how powerful jupyter notebook is and what can be done with it.
+
+-- 10-01-21:
+I learned that converting for loops into list comprehensions is both complicated and simple. I also learned that googling the answer sometimes makes things a lot more difficult than working through a solution on your own.
+
+-- 10-04-21:
+I was able to practice with dictionaries a little more and I learned that the more you use them, the less intimidating they become.

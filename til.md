@@ -32,3 +32,6 @@ I learned that converting for loops into list comprehensions is both complicated
 
 -- 10-04-21:
 I was able to practice with dictionaries a little more and I learned that the more you use them, the less intimidating they become.
+
+-- 10-05-21:
+Today I learned of a better method to break while loops than using a user choice variable, setting while True, then breaking if the user decides not to continue.

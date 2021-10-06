@@ -35,3 +35,6 @@ I was able to practice with dictionaries a little more and I learned that the mo
 
 -- 10-05-21:
 Today I learned of a better method to break while loops than using a user choice variable, setting while True, then breaking if the user decides not to continue.
+
+-- 10-06-21:
+Today I learned that an argument being passed through a function will not be modified by methods in loops or if statements. I also learned about .isnumeric() and .isalpha() checking if something is a number or in the alphabet. .isalnum() checks if it is alphanumeric. I learned of unicode on characters and how it can be used in basic calculations. I feel my overall understanding of for loops has improved immensely sinced my first day using them in python.

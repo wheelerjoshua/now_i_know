@@ -44,3 +44,6 @@ Today I learned about importing modules/packages/libraries in python. I learned 
 
 -- 10-08-21:
 Today I learned about matplotlib. It was a lot of information and I'm going to have to process it over the weekend. The anatomy of a plot is a figure with axes, wich contain the actual graphs, with their own x and y axis, titles, etc. What I did not expect was to be able to change the style that the plots output and how it can be modified.
+
+-- 10-12-21:
+Today I learned about numpy and how much easier it makes a lot of problems. Majority of the exercises we've done could be completed a lot quicker with numpy.

@@ -50,3 +50,6 @@ Today I learned about numpy and how much easier it makes a lot of problems. Majo
 
 -- 10-13-21:
 Today I learned several different ways you can manipulate arrays with numpy, such as reshaping, flattening, dotproduct. I also learned you can fill an array with 0s or 1s with np.zeroes and zp.ones
+
+-- 10-14-21:
+Today I learned about series in pandas and the methods available to use with them.

@@ -53,3 +53,6 @@ Today I learned several different ways you can manipulate arrays with numpy, suc
 
 -- 10-14-21:
 Today I learned about series in pandas and the methods available to use with them.
+
+-- 10-15-21:
+Today I learned that dataframes are built of multiple series and many of the functions and methods that apply to series can be used on dataframes.

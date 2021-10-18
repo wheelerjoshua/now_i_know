@@ -56,3 +56,6 @@ Today I learned about series in pandas and the methods available to use with the
 
 -- 10-15-21:
 Today I learned that dataframes are built of multiple series and many of the functions and methods that apply to series can be used on dataframes.
+
+-- 10-18-21:
+Today I learned how to connect to a SQL database and run a query through pandas and how to import the results into a pandas dataframe.

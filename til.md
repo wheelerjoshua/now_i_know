@@ -59,3 +59,6 @@ Today I learned that dataframes are built of multiple series and many of the fun
 
 -- 10-18-21:
 Today I learned how to connect to a SQL database and run a query through pandas and how to import the results into a pandas dataframe.
+
+-- 10-19-21:
+Today I learned about aggregating, merging, and reshaping dataframes. Using crosstab with separate dataframes can give complicated results if things, such as indeces, don't match up properly. .map() can be used to assign values to a dataframe with values from a dictionary without using if's and numerous elif's.

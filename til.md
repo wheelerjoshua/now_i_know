@@ -44,3 +44,10 @@ eg. Last names that start and end with an 'e' would be included in the WHERE cla
 - 10-19-21: Today I learned about aggregating, merging, and reshaping dataframes. Using crosstab with separate dataframes can give complicated results if things, such as indeces, don't match up properly. .map() can be used to assign values to a dataframe with values from a dictionary without using if's and numerous elif's.
 
 - 10-20-21: Today I learned about seaborn and the various plots it provides.
+
+- 10-21-21: Today I learned how to clone someone else's repository and push the work I do to my own repository, following these steps.
+Clone the other repo
+Git remote remove origin
+Then make a brand new blank repo on your own account
+Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
+1) do work, 2) add, 3) commit, and push

@@ -51,3 +51,8 @@ Git remote remove origin
 Then make a brand new blank repo on your own account
 Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 1) do work, 2) add, 3) commit, and push
+
+- End of November: I learned about tableau and how to use it
+
+- 11-01-21: Today I learned about basic statistics operations in numpy 
+- 11-02-21: Today I learned about probability distributions and how python can be used to calculate statistical distributions. I also learned more about using python and pandas to solve simulations

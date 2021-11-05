@@ -57,3 +57,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 11-01-21: Today I learned about basic statistics operations in numpy 
 - 11-02-21: Today I learned about probability distributions and how python can be used to calculate statistical distributions. I also learned more about using python and pandas to solve simulations
 - 11-04-21: Today I learned about hypothesis testing, what a null hypothesis and alternate hypothesis are and how to decide which hypothesis is correct using t-tests.
+
+- 11-05-21: Today I learned how to test and visualize correlations using python

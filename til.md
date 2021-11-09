@@ -60,3 +60,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 
 - 11-05-21: Today I learned how to test and visualize correlations using python
 - 11-08-21: Today I learned about chi**2 and how to apply it to find correlations between two categorical variables
+
+- 11-09-21: Today I learned an overview of classification in machine learning and reinforced data acquisition skills.

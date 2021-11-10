@@ -62,3 +62,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 11-08-21: Today I learned about chi**2 and how to apply it to find correlations between two categorical variables
 
 - 11-09-21: Today I learned an overview of classification in machine learning and reinforced data acquisition skills.
+
+- 11-10-21: Today I learned about preparing data for classification. This involved cleaning data, splitting data, and imputing data.

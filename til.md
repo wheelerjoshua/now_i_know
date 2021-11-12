@@ -64,3 +64,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 11-09-21: Today I learned an overview of classification in machine learning and reinforced data acquisition skills.
 
 - 11-10-21: Today I learned about preparing data for classification. This involved cleaning data, splitting data, and imputing data.
+
+- 11-12-21: Today I learned about exploring data, and a step-by-step process to use as a guide in the exploration.

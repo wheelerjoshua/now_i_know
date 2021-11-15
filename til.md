@@ -66,3 +66,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 11-10-21: Today I learned about preparing data for classification. This involved cleaning data, splitting data, and imputing data.
 
 - 11-12-21: Today I learned about exploring data, and a step-by-step process to use as a guide in the exploration.
+
+- 11-15-21: Today I learned how easy it is to get lost in exploring data and how dense of a task it can be. I also learned about tidy data, melting and pivoting tables to tidy it up prior to cleaning.

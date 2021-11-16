@@ -68,3 +68,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 11-12-21: Today I learned about exploring data, and a step-by-step process to use as a guide in the exploration.
 
 - 11-15-21: Today I learned how easy it is to get lost in exploring data and how dense of a task it can be. I also learned about tidy data, melting and pivoting tables to tidy it up prior to cleaning.
+
+- 11-16-2021: Today I learned how confusing a confusion matrix can be and how important deciding how to define your positive and negative is. I still don't understand how to best define this and require further practice. I also learned about classification metrics and how to choose which is most important.

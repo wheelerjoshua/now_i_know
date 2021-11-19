@@ -74,3 +74,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 11-17-2021: Today I learned about decision tree modeling and practiced utilizing the confusion matrix and using sklearn.metrics to measure classification metrics easier than doing it manually.
 
 11-18-2021: Today I learned about random forest modeling and how depth weighs heavily on overfitting models.
+
+11-19-20: Today I learned about KNN and linear regression models and that while developing models, using a random state ensures consistency while developing models for production teams.

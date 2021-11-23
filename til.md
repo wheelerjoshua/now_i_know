@@ -78,3 +78,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 11-19-2021: Today I learned about KNN and linear regression models and that while developing models, using a random state ensures consistency while developing models for production teams.
 
 11-22-2021: Today I learned about starting an end-to-end data science project with machine learning and how starting one is a fairly rough process for the inexperienced.
+
+11-23-2021: Today I learned how to apply stats module to an end-to-end data science project and how keeping the work process clearly defined can help with workflow and staying on task.

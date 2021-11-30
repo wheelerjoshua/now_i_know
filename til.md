@@ -82,3 +82,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 11-23-2021: Today I learned how to apply stats module to an end-to-end data science project and how keeping the work process clearly defined can help with workflow and staying on task.
 
 11-29-2021: Today I learned the variety of solutions you can find in a machine learning project. Even working with similar datasets, there was a variety of solutions. I also learned I should make sure that my final report for projects reflects current information all the way through, especially in the conclusion.
+
+11-30-2021: Today I learned the acquire and prepare portions of regression projects have different steps than classification projects. I also learned of a general overview of what regression is and how it is used.

@@ -86,3 +86,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 11-30-2021: Today I learned the acquire and prepare portions of regression projects have different steps than classification projects. I also learned of a general overview of what regression is and how it is used.
 
 - 12-01-2021: Today I learned of various topics from the senior Cohort's capstone projects. It was interesting to see how domain knowledge isn't necessary in completing a project, but being flexible and willing to learn can lead to success. I also learned that removing outliers can potentially handle nulls as well, but to be aware of what steps to take if it does not handle all nulls.
+
+- 12-02-2021: Today I learned about scaling data. Though I felt I had a sense of scaling things from previous experiences with AutoCAD, that experience is with drafting. I learned scaling data has many different methods, all with mathematical definitions to each.

@@ -88,3 +88,15 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 12-01-2021: Today I learned of various topics from the senior Cohort's capstone projects. It was interesting to see how domain knowledge isn't necessary in completing a project, but being flexible and willing to learn can lead to success. I also learned that removing outliers can potentially handle nulls as well, but to be aware of what steps to take if it does not handle all nulls.
 
 - 12-02-2021: Today I learned about scaling data. Though I felt I had a sense of scaling things from previous experiences with AutoCAD, that experience is with drafting. I learned scaling data has many different methods, all with mathematical definitions to each.
+
+- 12-03-2021: I learned that processing millions of data points can take a long time and this is a good opportunity to use .sample() to reduce the time it takes to run a cell.
+
+- 12-06-2021: Today I learned of Regression Evaluation techniques and about regression errors.
+
+- 12-07-2021: Today I learned about feature engineering, adding onto basic knowledge and ideas of what feature engineering is. I also learned of kbest and RFE to choose best features.
+
+- 12-08-2021: Today I learned about the many regression models and how to use them.
+
+- 12-09-2021: Today I practiced how to apply what I've learned to a project, in this case a zillow project. I also revisited scaling and was reminded that you always scale data in models that incorproate a distance metric. Regression is one of them.
+
+- 12-10-2021: Today I continued applying what I learned of regression modeling to a project.

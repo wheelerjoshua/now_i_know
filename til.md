@@ -100,3 +100,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 12-09-2021: Today I practiced how to apply what I've learned to a project, in this case a zillow project. I also revisited scaling and was reminded that you always scale data in models that incorproate a distance metric. Regression is one of them.
 
 - 12-10-2021: Today I continued applying what I learned of regression modeling to a project.
+
+- 12-14-2021: Today I learned about general clustering concepts.

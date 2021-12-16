@@ -102,3 +102,5 @@ Then copy the git remote add origin git@github.com:my-git-hub/my-repository.git
 - 12-10-2021: Today I continued applying what I learned of regression modeling to a project.
 
 - 12-14-2021: Today I learned about general clustering concepts.
+
+- 12-16-2021: Today I learned about exploring data in preparation for cluster modeling.
